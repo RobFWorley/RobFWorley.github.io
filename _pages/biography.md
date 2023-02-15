@@ -17,3 +17,5 @@ My research now localization for robots in buried pipe networks focuses on two m
 
 * Developing sensing for robot localization which is suitable for robots in this environment: The most appropriate sensing may differ from typical sensing approaches taken in other environments.
 * Developing the state definition for robot localization: The most appropriate state definition for a given problem might be different from what is used typically.
+
+I'm interested more broadly in the topics of state estimation and classification, and in the applications of robotics and artificial intelligence.

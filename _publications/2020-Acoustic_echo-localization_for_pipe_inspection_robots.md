@@ -1,7 +1,7 @@
 ---
 title: "Acoustic echo-localization for pipe inspection robots"
 collection: publications
-permalink: /publication/14/09/2020-Acoustic_echo-localization_for_pipe_inspection_robots.pdf
+permalink: /publication/14/09/2020-Acoustic_echo-localization_for_pipe_inspection_robots
 excerpt: 'This paper proposes the use of acoustic echo sensing for robots in pipe networks, and develops an algorithm for using this sensing in localization. This sensing approach increases the robot&apos;s perspective compared to the use of typical sensors such as vision, which are limited in range in this environment.'
 date: 14/09/2020
 status: published

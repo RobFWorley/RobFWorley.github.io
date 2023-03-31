@@ -1,7 +1,7 @@
 ---
 title: "Topological Robot Localization in a Pipe Network"
 collection: publications
-permalink: /publication/06/05/2020-Topological_robot_localization_in_a_pipe_network.pdf
+permalink: /publication/06/05/2020-Topological_robot_localization_in_a_pipe_network
 excerpt: 'To do robot localization, the robot state to be estimate has to be defined. This paper proposes the use of a discrete (topological) robot state definition for robots in pipe networks, as an alternative to the traditional continuous (metric) approach which is not well suited to this constrained environment.'
 date: 06/05/2020
 status: published

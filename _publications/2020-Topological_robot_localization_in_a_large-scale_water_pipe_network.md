@@ -1,7 +1,7 @@
 ---
 title: "Topological robot localization in a large-scale water pipe network"
 collection: publications
-permalink: /publication/16/09/2020-Topological_robot_localization_in_a_large-scale_water_pipe_network.pdf
+permalink: /publication/16/09/2020-Topological_robot_localization_in_a_large-scale_water_pipe_network
 excerpt: 'This paper evaluates the use of a topological robot state definition for robots in pipe networks proposed in my previous work. The sources of uncertainty which cause an increase in estimate error are identified. Alternative state definitions are propsed which result in different values of efficiency, in terms of estimate accuracy relative to the required computational time. On reflection, the attempt to improve efficiency by using the proposed state definition went too far away from the typical state definition; this motivated further work to find a compromise between the two approaches.'
 date: 16/09/2020
 status: published

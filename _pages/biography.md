@@ -13,7 +13,7 @@ Prior to this, I studied towards an MEng degree in Integrated Mechanical and Ele
 
 Moving back towards the present, I have since continued working in the same field, this time in localization of robots in buried pipe networks, through my PhD degree and current research position.
 
-My research now localization for robots in buried pipe networks focuses on two main aspects:
+My research on localization for robots in buried pipe networks focuses on two main aspects:
 
 * Developing sensing for robot localization which is suitable for robots in this environment: The most appropriate sensing may differ from typical sensing approaches taken in other environments.
 * Developing the state definition for robot localization: The most appropriate state definition for a given problem might be different from what is used typically.

@@ -8,7 +8,7 @@ author_profile: true
 Here is a set of papers that I have written.
 
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
-TEST 1
+author.googlescholar
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

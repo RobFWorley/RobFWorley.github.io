@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rob Worley"
   avatar           : "Rob Worley Photo.png"
-  bio              : "Robot scientist"
+  bio              : "Robot TEST scientist"
   location         : "Sheffield"
   employer         :
   pubmed           : 
-  googlescholar    : "test"#"https://scholar.google.com/citations?hl=en&user=TG6qXaMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TG6qXaMAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Rob-Worley-2"
   uri              :

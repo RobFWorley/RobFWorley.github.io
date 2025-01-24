@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 This is my personal academic webpage, which says a little bit about me and about the work that I've done over the last few years.
-
-It is a work in progress.

@@ -10,6 +10,6 @@ redirect_from:
 
 This website says a bit about me and about the work that I've done over the last few years.
 
-Previously, I have been working on the Pipebots project, developing technology for inspecting buried pipes with robots.
+For the last few years, I have been working on the Pipebots project, developing technology for inspecting buried pipes with robots.
 
-Currently I am working on the Pipebot Patrol project, where I am getting our sensing, mapping, and autonomy technology into real-world pipe environments.
+Currently, I am working on the Pipebot Patrol project, where I am getting our sensing, mapping, and autonomy technology into real-world pipe environments.

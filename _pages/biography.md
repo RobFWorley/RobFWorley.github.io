@@ -5,9 +5,9 @@ permalink: /biography/
 author_profile: true
 ---
 
-I am a Postdoctoral Research Associate in Robot Navigation at the University of Sheffield in the School of Electrical and Electronic Engineering, where I am funded by the Pipebots project.
+I am a Postdoctoral Research Associate in Robot Navigation at the University of Sheffield in the School of Electrical and Electronic Engineering, where I am funded by the Pipebot Patrol project.
 
-I have worked alongside the Pipebots project for a few years while I studied towards a PhD degree in the Department of Automatic Control and Systems Engineering where I was funded by an EPSRC Doctoral Training Partnership Scholarship.
+I worked alongside the Pipebots project for a few years while I studied towards a PhD degree in the Department of Automatic Control and Systems Engineering where I was funded by an EPSRC Doctoral Training Partnership Scholarship.
 
 Prior to this, I studied towards an MEng degree in Integrated Mechanical and Electrical Engineering at the University of Bath. Towards the end of this degree I began working in the field of robot localization, where I worked on sonar-based localization for underwater robots.
 
